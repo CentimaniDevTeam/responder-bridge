@@ -1,0 +1,9 @@
+{
+  "name": "@hak2i/responder-bridge-openai",
+  "version": "0.1.0",
+  "description": "OpenAI-compatible provider for Responder Bridge",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "types": "src/index.d.ts"
+}

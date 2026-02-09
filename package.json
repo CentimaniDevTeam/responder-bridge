@@ -1,0 +1,8 @@
+{
+    "name": "responder-bridge-monorepo",
+    "private": true,
+    "workspaces": ["packages/*"],
+    "scripts": {
+        "test": "node packages/responder-bridge/test/loop.test.js"
+    }
+}
