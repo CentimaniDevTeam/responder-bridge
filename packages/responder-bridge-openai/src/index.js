@@ -13,7 +13,7 @@ class OpenAIProvider {
   }
 
   async generate(input) {
-    const url = this.baseUrl.replace(/\/$/, '') + '/v1/chat/completions';
+    const url = this.baseUrl.replace(/\/$/, '') + '/chat/completions';
     const body = {
       model: input.model,
       messages: input.messages,
