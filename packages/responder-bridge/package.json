@@ -1,6 +1,6 @@
 {
   "name": "@hak2i/responder-bridge",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Responder Bridge core library",
   "license": "MIT",
   "type": "commonjs",
@@ -10,6 +10,6 @@
     "responder-bridge": "bin/responder-bridge.js"
   },
   "dependencies": {
-    "@hak2i/responder-bridge-openai": "^0.1.0"
+    "@hak2i/responder-bridge-openai": "^0.1.3"
   }
 }
